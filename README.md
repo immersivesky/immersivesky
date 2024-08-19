@@ -1,10 +1,9 @@
 <h1>⭐ Обо мне</h1>
 
-💬 Имя: Матвей<br />
 📅 Дата рождения: 25 июля 2005 год<br />
 🌏 Личный сайт: https://interstellar.su/@immersivesky<br />
 
-<img src="https://i.pinimg.com/originals/87/6a/26/876a264b884e2dbcf2d8939bce160291.jpg" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=immersivesky&theme=ambient-gradient&locale=ru&mode=weekly)](https://git.io/streak-stats)
 
 <h1>🚀 Технологии</h1>
 
